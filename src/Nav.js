@@ -2,7 +2,7 @@ import React from "react";
 
 const Nav = () => (
   <nav>
-    <h1>TAILWIND TRADERS - PIPELINE 2</h1>
+    <h1>TAILWIND TRADERS - CANARY</h1>
   </nav>
 );
 
